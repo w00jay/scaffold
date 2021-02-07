@@ -1,4 +1,6 @@
-module github.com/catchplay/scaffold
+module github.com/w00jay/scaffold
+
+go 1.15
 
 require (
 	github.com/pkg/errors v0.8.1
